@@ -1,0 +1,15 @@
+C:\Users\THE GEEK TECHNOLOGY\Desktop\AlphaApp\bin\Debug\net6.0\AlphaApp.exe
+C:\Users\THE GEEK TECHNOLOGY\Desktop\AlphaApp\bin\Debug\net6.0\AlphaApp.deps.json
+C:\Users\THE GEEK TECHNOLOGY\Desktop\AlphaApp\bin\Debug\net6.0\AlphaApp.runtimeconfig.json
+C:\Users\THE GEEK TECHNOLOGY\Desktop\AlphaApp\bin\Debug\net6.0\AlphaApp.dll
+C:\Users\THE GEEK TECHNOLOGY\Desktop\AlphaApp\bin\Debug\net6.0\AlphaApp.pdb
+C:\Users\THE GEEK TECHNOLOGY\Desktop\AlphaApp\obj\Debug\net6.0\AlphaApp.csproj.AssemblyReference.cache
+C:\Users\THE GEEK TECHNOLOGY\Desktop\AlphaApp\obj\Debug\net6.0\AlphaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THE GEEK TECHNOLOGY\Desktop\AlphaApp\obj\Debug\net6.0\AlphaApp.AssemblyInfoInputs.cache
+C:\Users\THE GEEK TECHNOLOGY\Desktop\AlphaApp\obj\Debug\net6.0\AlphaApp.AssemblyInfo.cs
+C:\Users\THE GEEK TECHNOLOGY\Desktop\AlphaApp\obj\Debug\net6.0\AlphaApp.csproj.CoreCompileInputs.cache
+C:\Users\THE GEEK TECHNOLOGY\Desktop\AlphaApp\obj\Debug\net6.0\AlphaApp.dll
+C:\Users\THE GEEK TECHNOLOGY\Desktop\AlphaApp\obj\Debug\net6.0\refint\AlphaApp.dll
+C:\Users\THE GEEK TECHNOLOGY\Desktop\AlphaApp\obj\Debug\net6.0\AlphaApp.pdb
+C:\Users\THE GEEK TECHNOLOGY\Desktop\AlphaApp\obj\Debug\net6.0\AlphaApp.genruntimeconfig.cache
+C:\Users\THE GEEK TECHNOLOGY\Desktop\AlphaApp\obj\Debug\net6.0\ref\AlphaApp.dll
